@@ -352,3 +352,17 @@ Great work!
 [toUpperCase]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
 [toLowerCase]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 [slice]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice
+
+
+
+1. Do not use "learn"
+2. Run npm install
+3. Use NPM test instead
+4. Run npm install
+5. Install learn-lab (gem)
+6. Run npm install
+7. Run gem install learn-lab
+8. Run learn-lab config
+9. After this use learn-lab test
+10. Will receive token to submit 
+11. For javascript modules always run npm install 
